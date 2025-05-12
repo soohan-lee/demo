@@ -1,5 +1,4 @@
 ## Requirements
 - Java 21 (JDK 21)
-- Tomcat 10.1+
-- spring 6.2.5
+- spring boot 3.2.12
 - IDE VSCODE
